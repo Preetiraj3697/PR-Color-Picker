@@ -55,4 +55,6 @@ For any questions or feedback, please contact.
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-### Enjoy picking colors with PR-Color Picker!
+### Enjoy picking colors with PR-Color Picker !
+
+https://github.com/Preetiraj3697/PR-Color-Picker/assets/107460745/14c672fe-89d3-4f59-a2d4-e8d45a8d7931
